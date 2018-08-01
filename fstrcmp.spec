@@ -14,7 +14,7 @@ URL:		http://fstrcmp.sourceforge.net/
 BuildRequires:	ghostscript
 BuildRequires:	groff
 BuildRequires:	libtool
-BuildRequires:	man-db
+BuildRequires:	pkgconfig
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
