@@ -5,7 +5,7 @@
 Summary:	Fuzzy string compare library
 Name:		fstrcmp
 Version:	0.7.D001
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/fstrcmp/%{name}-%{version}.tar.gz
